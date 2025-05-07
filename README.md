@@ -1,7 +1,7 @@
 # sistema-empresarial-BD
 CRUD com Integração Frontend, Backend e Banco de Dados.
 
-<br><br>
+<br>
 
 | Estudante                   | GITHUB                 | GMAIL                             |
 | ----------------------------|------------------------|-----------------------------------|
