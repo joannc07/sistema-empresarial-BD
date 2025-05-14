@@ -3,8 +3,8 @@ CRUD com Integração Frontend, Backend e Banco de Dados.
 
 <br>
 
-| Estudante                   | GITHUB                 | GMAIL                             |
-| ----------------------------|------------------------|-----------------------------------|
-| Joan Nassr Conte            | joannc07               | joanncsenac@gmail.com             |
+| Estudante                   | Turma                  |
+| ----------------------------|------------------------|
+| Joan Nassr Conte            | 301                    |
 
 
